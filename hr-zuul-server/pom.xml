@@ -10,7 +10,7 @@
 	<groupId>com.poscoict</groupId>
 	<artifactId>hr-zuul-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hr-eureka-server</name>
+	<name>hr-zuul-server</name>
 	<description>hr-zuul-server</description>
 	<properties>
 		<java.version>11</java.version>
